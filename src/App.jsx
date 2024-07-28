@@ -1,6 +1,4 @@
-import React from "react";
 import { Route, Routes } from "react-router-dom";
-import HomeLayout from "./components/homeLayout";
 import DrawerAppBar from "./components/layout";
 import HomePage from "./components/home";
 import HelpPage from "./components/help";
